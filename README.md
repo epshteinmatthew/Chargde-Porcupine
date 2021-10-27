@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Chargde-Porcupine
-- 👀 I’m interested in ... Eating Human Flesh
-- 🌱 I’m currently learning ... Nothing i am lazy
-- 💞️ I’m looking to collaborate on ... world destruction
-- 📫 How to reach me ... dont
+-Currently a sveltekit dev
+-Working on my webiste www.almonds.site
+-Almond Power!
 
 <!---
 Chargde-Porcupine/Chargde-Porcupine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
