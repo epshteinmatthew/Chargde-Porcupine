@@ -1,5 +1,5 @@
--Currently a sveltekit dev
--Working on my webiste www.almonds.site
+-Currently a sveltekit dev\n
+-Working on my webiste www.almonds.site\n
 -Almond Power!
 
 <!---
