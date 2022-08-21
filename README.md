@@ -6,6 +6,6 @@
 
 -no i wont fix your printer
 
--openSUSE user
+-PROUD DEBAIN user
 
--learning c web dev for some reason
+-c web dev for some reason
