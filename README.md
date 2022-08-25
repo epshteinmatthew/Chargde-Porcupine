@@ -10,4 +10,4 @@
 
 -c web dev for some reason
 
--[My Website](https://www.chargde-porcupine.github.io)
+-[My Website](https://chargde-porcupine.github.io)
