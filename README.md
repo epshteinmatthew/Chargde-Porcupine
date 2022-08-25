@@ -6,6 +6,8 @@
 
 -no i wont fix your printer
 
--PROUD DEBAIN user
+-i use arch, BTW
 
 -c web dev for some reason
+
+-[My Website](https://www.chargde-porcupine.github.io)
